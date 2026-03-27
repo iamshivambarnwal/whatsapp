@@ -1,0 +1,128 @@
+2026/03/25-00:29:07.667 10c8a3 Creating DB /Users/shivam/Downloads/Whatsapp/backend/.wwebjs_auth/user_69c2dc78d59b3916f433b942/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/03/25-00:29:07.671 10c8a3 Reusing MANIFEST /Users/shivam/Downloads/Whatsapp/backend/.wwebjs_auth/user_69c2dc78d59b3916f433b942/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/25-00:29:38.318 10c8a6 Level-0 table #5: started
+2026/03/25-00:29:38.334 10c8a6 Level-0 table #5: 1051333 bytes OK
+2026/03/25-00:29:38.335 10c8a6 Delete type=0 #3
+2026/03/25-00:29:38.510 10c8a3 Level-0 table #7: started
+2026/03/25-00:29:38.525 10c8a3 Level-0 table #7: 1007563 bytes OK
+2026/03/25-00:29:38.526 10c8a3 Delete type=0 #4
+2026/03/25-00:29:38.532 10c8a6 Compacting 1@1 + 1@2 files
+2026/03/25-00:29:38.556 10c8a6 Generated table #8@1: 26210 keys, 923571 bytes
+2026/03/25-00:29:38.556 10c8a6 Compacted 1@1 + 1@2 files => 923571 bytes
+2026/03/25-00:29:38.557 10c8a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/25-00:29:38.558 10c8a6 Delete type=2 #7
+2026/03/25-00:29:38.558 10c8a6 Delete type=2 #5
+2026/03/25-00:29:39.942 10c8a6 Level-0 table #10: started
+2026/03/25-00:29:39.962 10c8a6 Level-0 table #10: 1031947 bytes OK
+2026/03/25-00:29:39.966 10c8a6 Delete type=0 #6
+2026/03/25-00:29:39.971 10c8a6 Compacting 1@1 + 1@2 files
+2026/03/25-00:29:40.038 10c8a6 Generated table #11@1: 31443 keys, 1464916 bytes
+2026/03/25-00:29:40.038 10c8a6 Compacted 1@1 + 1@2 files => 1464916 bytes
+2026/03/25-00:29:40.040 10c8a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/25-00:29:41.339 10c8a6 Level-0 table #13: started
+2026/03/25-00:29:41.354 10c8a6 Level-0 table #13: 1088082 bytes OK
+2026/03/25-00:29:41.356 10c8a6 Delete type=2 #10
+2026/03/25-00:29:41.356 10c8a6 Delete type=2 #8
+2026/03/25-00:29:41.356 10c8a6 Delete type=0 #9
+2026/03/25-00:29:41.386 10c8a6 Compacting 1@1 + 1@2 files
+2026/03/25-00:29:41.422 10c8a6 Generated table #14@1: 43296 keys, 1991943 bytes
+2026/03/25-00:29:41.422 10c8a6 Compacted 1@1 + 1@2 files => 1991943 bytes
+2026/03/25-00:29:41.423 10c8a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/25-00:29:41.423 10c8a6 Delete type=2 #13
+2026/03/25-00:29:41.423 10c8a6 Delete type=2 #11
+2026/03/25-00:29:41.616 10c8a6 Level-0 table #16: started
+2026/03/25-00:29:41.631 10c8a6 Level-0 table #16: 1105747 bytes OK
+2026/03/25-00:29:41.632 10c8a6 Delete type=0 #12
+2026/03/25-00:29:41.634 10c8a6 Compacting 1@1 + 1@2 files
+2026/03/25-00:29:41.669 10c8a6 Generated table #17@1: 52866 keys, 2213713 bytes
+2026/03/25-00:29:41.677 10c8a6 Generated table #18@1: 13718 keys, 557900 bytes
+2026/03/25-00:29:41.677 10c8a6 Compacted 1@1 + 1@2 files => 2771613 bytes
+2026/03/25-00:29:41.678 10c8a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:29:41.678 10c8a6 Delete type=2 #14
+2026/03/25-00:29:41.678 10c8a6 Delete type=2 #16
+2026/03/25-00:29:41.772 10c8a6 Level-0 table #20: started
+2026/03/25-00:29:41.786 10c8a6 Level-0 table #20: 1247670 bytes OK
+2026/03/25-00:29:41.787 10c8a6 Delete type=0 #15
+2026/03/25-00:29:41.788 10c8a6 Compacting 1@1 + 1@2 files
+2026/03/25-00:29:41.819 10c8a6 Generated table #21@1: 51681 keys, 2205105 bytes
+2026/03/25-00:29:41.836 10c8a6 Generated table #22@1: 24712 keys, 872108 bytes
+2026/03/25-00:29:41.836 10c8a6 Compacted 1@1 + 1@2 files => 3077213 bytes
+2026/03/25-00:29:41.837 10c8a6 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/03/25-00:29:42.137 10c8a6 Level-0 table #24: started
+2026/03/25-00:29:42.161 10c8a6 Level-0 table #24: 1243337 bytes OK
+2026/03/25-00:29:42.162 10c8a6 Delete type=2 #17
+2026/03/25-00:29:42.162 10c8a6 Delete type=2 #20
+2026/03/25-00:29:42.162 10c8a6 Delete type=0 #19
+2026/03/25-00:29:44.031 10c8a6 Compacting 1@1 + 2@2 files
+2026/03/25-00:29:44.085 10c8a6 Generated table #25@1: 40241 keys, 1886694 bytes
+2026/03/25-00:29:44.085 10c8a6 Compacted 1@1 + 2@2 files => 1886694 bytes
+2026/03/25-00:29:44.086 10c8a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:29:44.086 10c8a6 Delete type=2 #21
+2026/03/25-00:29:44.086 10c8a6 Delete type=2 #22
+2026/03/25-00:29:44.086 10c8a6 Delete type=2 #24
+2026/03/25-00:30:06.123 10c8b5 Level-0 table #27: started
+2026/03/25-00:30:06.157 10c8b5 Level-0 table #27: 1048413 bytes OK
+2026/03/25-00:30:06.160 10c8b5 Delete type=0 #23
+2026/03/25-00:30:06.162 10c8a6 Compacting 1@1 + 2@2 files
+2026/03/25-00:30:06.214 10c8a6 Generated table #28@1: 44501 keys, 2205813 bytes
+2026/03/25-00:30:06.222 10c8a6 Generated table #29@1: 15326 keys, 528467 bytes
+2026/03/25-00:30:06.222 10c8a6 Compacted 1@1 + 2@2 files => 2734280 bytes
+2026/03/25-00:30:06.223 10c8a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:30:09.762 10c8a3 Level-0 table #31: started
+2026/03/25-00:30:09.783 10c8a3 Level-0 table #31: 1037170 bytes OK
+2026/03/25-00:30:09.784 10c8a3 Delete type=2 #27
+2026/03/25-00:30:09.785 10c8a3 Delete type=2 #25
+2026/03/25-00:30:09.785 10c8a3 Delete type=2 #18
+2026/03/25-00:30:09.785 10c8a3 Delete type=0 #26
+2026/03/25-00:30:09.786 10c8a3 Compacting 1@1 + 2@2 files
+2026/03/25-00:30:09.825 10c8a3 Generated table #32@1: 44151 keys, 2206402 bytes
+2026/03/25-00:30:09.835 10c8a3 Generated table #33@1: 16662 keys, 597205 bytes
+2026/03/25-00:30:09.836 10c8a3 Compacted 1@1 + 2@2 files => 2803607 bytes
+2026/03/25-00:30:09.839 10c8a3 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:30:09.840 10c8a3 Delete type=2 #29
+2026/03/25-00:30:09.840 10c8a3 Delete type=2 #28
+2026/03/25-00:30:09.840 10c8a3 Delete type=2 #31
+2026/03/25-00:30:21.428 10c8a6 Level-0 table #35: started
+2026/03/25-00:30:21.448 10c8a6 Level-0 table #35: 1098575 bytes OK
+2026/03/25-00:30:21.452 10c8a6 Delete type=0 #30
+2026/03/25-00:30:21.454 10c8a6 Compacting 1@1 + 2@2 files
+2026/03/25-00:30:21.499 10c8a6 Generated table #36@1: 47243 keys, 2209337 bytes
+2026/03/25-00:30:21.515 10c8a6 Generated table #37@1: 21089 keys, 966760 bytes
+2026/03/25-00:30:21.515 10c8a6 Compacted 1@1 + 2@2 files => 3176097 bytes
+2026/03/25-00:30:21.516 10c8a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:30:21.517 10c8a6 Delete type=2 #35
+2026/03/25-00:30:21.517 10c8a6 Delete type=2 #32
+2026/03/25-00:30:21.517 10c8a6 Delete type=2 #33
+2026/03/25-00:30:22.410 10c8a6 Level-0 table #39: started
+2026/03/25-00:30:22.450 10c8a6 Level-0 table #39: 1049532 bytes OK
+2026/03/25-00:30:22.453 10c8a6 Delete type=0 #34
+2026/03/25-00:30:22.792 10c8a6 Compacting 1@1 + 2@2 files
+2026/03/25-00:30:22.832 10c8a6 Generated table #40@1: 48804 keys, 2210374 bytes
+2026/03/25-00:30:22.847 10c8a6 Generated table #41@1: 24271 keys, 1136085 bytes
+2026/03/25-00:30:22.847 10c8a6 Compacted 1@1 + 2@2 files => 3346459 bytes
+2026/03/25-00:30:22.849 10c8a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:30:22.849 10c8a6 Delete type=2 #39
+2026/03/25-00:30:22.849 10c8a6 Delete type=2 #37
+2026/03/25-00:30:22.849 10c8a6 Delete type=2 #36
+2026/03/25-00:30:43.797 10c8a6 Level-0 table #43: started
+2026/03/25-00:30:43.821 10c8a6 Level-0 table #43: 1077039 bytes OK
+2026/03/25-00:30:43.823 10c8a6 Delete type=0 #38
+2026/03/25-00:30:43.825 10c8a3 Compacting 1@1 + 2@2 files
+2026/03/25-00:30:43.862 10c8a3 Generated table #44@1: 49212 keys, 2210720 bytes
+2026/03/25-00:30:43.881 10c8a3 Generated table #45@1: 26830 keys, 1269297 bytes
+2026/03/25-00:30:43.881 10c8a3 Compacted 1@1 + 2@2 files => 3480017 bytes
+2026/03/25-00:30:43.883 10c8a3 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:30:43.883 10c8a3 Delete type=2 #43
+2026/03/25-00:30:43.883 10c8a3 Delete type=2 #40
+2026/03/25-00:30:43.883 10c8a3 Delete type=2 #41
+2026/03/25-00:31:05.115 10c8a6 Level-0 table #47: started
+2026/03/25-00:31:05.156 10c8a6 Level-0 table #47: 1063320 bytes OK
+2026/03/25-00:31:05.159 10c8a6 Delete type=0 #42
+2026/03/25-00:31:05.162 10c8a6 Compacting 1@1 + 2@2 files
+2026/03/25-00:31:05.232 10c8a6 Generated table #48@1: 49070 keys, 2213245 bytes
+2026/03/25-00:31:05.246 10c8a6 Generated table #49@1: 24512 keys, 1157448 bytes
+2026/03/25-00:31:05.246 10c8a6 Compacted 1@1 + 2@2 files => 3370693 bytes
+2026/03/25-00:31:05.248 10c8a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/25-00:31:05.248 10c8a6 Delete type=2 #45
+2026/03/25-00:31:05.248 10c8a6 Delete type=2 #44
+2026/03/25-00:31:05.248 10c8a6 Delete type=2 #47

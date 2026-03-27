@@ -1,0 +1,5 @@
+2026/03/24-22:47:27.594 ec736 Creating DB /Users/shivam/Downloads/Whatsapp/backend/.wwebjs_auth/user_69c2c724b692ef4792c88c66/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/03/24-22:47:27.597 ec736 Reusing MANIFEST /Users/shivam/Downloads/Whatsapp/backend/.wwebjs_auth/user_69c2c724b692ef4792c88c66/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/25-00:04:57.053 ec74c Level-0 table #5: started
+2026/03/25-00:04:57.094 ec74c Level-0 table #5: 1068883 bytes OK
+2026/03/25-00:04:57.098 ec74c Delete type=0 #3
